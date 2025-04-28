@@ -16,7 +16,7 @@ It's like a digital tally counter — easy to use and quick to reset!
 
 ## 🌐 Live Demo
 
-👉 Click here to view it on Netlify
+👉 Click here to view it on Netlify (https://clickcountapp.netlify.app/)
 
 
 ## 🛠️ Technologies Used
